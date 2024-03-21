@@ -105,3 +105,6 @@ Extra:
 -   This is a reimplemenatation of an old project I began before going through the _nology training program.
 - I want to rebuild it into a full-stack application rather than a front-end application using the languages and frameworks I learnt. 
 - I want to add a database to store the prompts instead of keeping the data into a static object on the front-end. 
+- previous application link: 
+- https://github.com/SaraMoad/BingoGenerator 
+- live link: [saramoad.github.io/BingoGenerator/ ](https://saramoad.github.io/BingoGenerator/)
