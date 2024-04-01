@@ -55,12 +55,6 @@ npm run dev
 - a print format that only prints the bingo card.
 - In the prompt allow emoticons to be included. 
 
-Extra: 
-- Add bingo Prompt:
-    creates a modal (form) where you can create your own prompt that gets added to the category you supply. 
-    adds to the database. 
-- Toast notification that informs the user when its added.
-
 ---
 
 ## Known issues
@@ -72,9 +66,10 @@ Extra:
 
 - Add bingo Prompt:
     - creates a modal (form) where you can create your own prompt that gets added to the category you supply. 
-   - adds to the database. 
+    - adds to the database. 
 - Toast notification that informs the user when its added.
-
+- A new page for Junior Bingo, switches to a new page and fetches prompts for junior bingo. 
+- Add locations for tick and it add prompts based on the location to the list and the prompts it can generate from. 
 ---
 
 ## Change logs
